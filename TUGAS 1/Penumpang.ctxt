@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nama\ umur\ hamil
+comment0.target=Penumpang(java.lang.String,\ int,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Penumpang\r\n\ \r\n\ @param\ nama\ memberi\ nama\ penumpang\r\n\ @param\ umur\ memberi\ berapa\ umur\ penumpang\r\n\ @param\ hamil\ memberi\ status\ hamil\ dari\ penumpang\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNama()
+comment1.text=\r\n\ Sebuah\ method\ yang\ mengembalikan\ \ nama\r\n\ \r\n\ @return\ nama\ \r\n
+comment2.params=
+comment2.target=int\ getUmur()
+comment2.text=\r\n\ Sebuah\ method\ yang\ mengembalikan\ umur\r\n\ \r\n\ @return\ umur\ \r\n
+comment3.params=
+comment3.target=boolean\ getHamil()
+comment3.text=\r\n\ Sebuah\ method\ yang\ mengembalikan\ variabel\ hamil\r\n\ \r\n\ @return\ boolean\ hamil\r\n
+numComments=4
